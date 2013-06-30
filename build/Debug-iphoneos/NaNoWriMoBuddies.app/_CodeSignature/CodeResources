@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AddBuddyViewController.nib</key>
+		<data>
+		qut6Zyn/S8ufaWGMe7BGFY5tWyE=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		NCNO8bpT9a+umCqw9rn7iq2/rI0=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>RootViewController.nib</key>
+		<data>
+		KkehNh9rSBbmfz8GVzD7oYHx6tI=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		upk5SVqJL88wgz//UNzgxVitj8s=
+		</data>
+		<key>icon.png</key>
+		<data>
+		B3ghyqniEfmUPAbnOmN+FlOpJjU=
+		</data>
+		<key>nanobuddies.db</key>
+		<data>
+		DiLcqa/xTw01/iIeAybDmRZHC6M=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
